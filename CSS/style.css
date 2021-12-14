@@ -177,6 +177,7 @@ ul li.active{
 .contact .cot2 p{
     padding-top: 50px;
     margin-bottom: 40px;
+    color: #d6c6ae;
 }
 .contact .cot2 .active{
     padding: 5px 10px;
@@ -255,7 +256,7 @@ ul li.active{
 }
 .contact4 hr{
     margin-right: 377px;
-    margin-top: 100px;
+    margin-top: 120px;
     background-color: #3d3d3d;
     position: absolute;
 }
@@ -293,12 +294,13 @@ ul li.active{
     position: absolute;
 }
 .contact3 h2{
-    color: #d6c6ae;
+    color: #976a4e;
     font-size:40px;
 }
 .contact3 .cot2 p{
     padding-top: 50px;
     margin-bottom: 40px;
+    color: #976a4e;
 }
 .contact3 .cot2 .active{
     padding: 5px 10px;
@@ -353,7 +355,7 @@ ul li.active{
     padding-left: 200px;
 }
 .contact2 h2{
-    color: #68645e;
+    color: #3d3d3d;
     position: absolute;
     font-size:40px;
     
@@ -378,7 +380,7 @@ ul li.active{
 }
 .contact2 hr{
     margin-right: 377px;
-    margin-top: 100px;
+    margin-top: 120px;
     background-color: #3d3d3d;
     position: absolute;
 }
@@ -424,17 +426,15 @@ ul li.active{
 
 .contact5 .cot2 .active{
     padding: 10px 20px;
-    text-align: left;
+    text-align: center;
     list-style: none;
-    margin-right: 390px;
+    margin-left: 200px;
     font-size: 12px;
     color: #e0d4bd;
     font-family:mariadpro ;
     border-radius: 15px;
     background:#3d3d3d; 
-    position: absolute;
     margin-top: 450px;
-    margin-left: 50px;
 }
 .contact5 hr{
     margin-right: 377px;
